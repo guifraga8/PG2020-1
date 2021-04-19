@@ -2,6 +2,8 @@
 Repositório contendo todas as listas de exercícios do Grau A da disciplina de Processamento Gráfico de 2021
 
 ## IMPORTANTE:
+Respostas de questões com cunho "teórico" encontram-se dentro de sua respectiva pasta, em um arquivo .txt (como por exemplo, Exercício 3 da Lista 2).
+
 Arquivo "dependecies", que pode ser encontrado em https://github.com/fellowsheep/PG2021-1/tree/main/dependencies, foi alterado para a resolução dos exercícios, como mostra a seguir:
 * Inclusão de arquivo "glad.c" - para não precisar repetir a inclusão do mesmo em cada projeto;
 * Inclusão de arquivo "Shader.h" - para não precisar repetir a inclusão do mesmo em cada projeto;
@@ -27,8 +29,10 @@ Além disso, é possível que a solução abra no modo de Debug "x64", o certo �
 ### Informações sobre o código:
 Código usado é C++ juntamente com o OpenGL e GLSL, e as bibliotecas adicionais GLAD, GLFW e GLM.
 
-OBS: Alguns exercícios eram particionados em partes (Ex.: 1.a, 1.b, 1.c) e foram feitos em um projeto só;
+OBS: Alguns exercícios eram particionados em partes (Ex.: 1.a, 1.b, 1.c) e foram feitos em um projeto só. Alguns exercícios foram realizados simultanemanete com outros e adicionados em apenas um projeto. Nesse caso, aparecem como no exemplo a seguir: "Exercício1-3" (contém resposta dos exercícios de número 1 a 3).
 
 * Lista1:
-  - Projetos "Exercício1" ao "Exercício5" foram utilizados como base do código uma adaptação de https://learnopengl.com/code_viewer_gh.php?code=src/1.getting_started/2.1.hello_triangle/hello_triangle.cpp;
-  - Projetos "Exercício6" e "Exercício7" foram utilizados como base o código do learnopengl acima adaptado por Rossana Baptista Queiroz, que se encontra em https://github.com/fellowsheep/PG2021-1/blob/main/HelloTriangle/HelloTriangle/Source.cpp.
+  - Projetos "Exercício1" ao "Exercício5" utilizaram como base uma adaptação de https://learnopengl.com/code_viewer_gh.php?code=src/1.getting_started/2.1.hello_triangle/hello_triangle.cpp;
+  - Projetos "Exercício6" e "Exercício7" utilizaram como base o código adaptado por Rossana Baptista Queiroz, disponível em https://github.com/fellowsheep/PG2021-1/blob/main/HelloTriangle/HelloTriangle/Source.cpp.
+* Lista2:
+  - Projetos "Exercício1-3" e "Exercício4-5" utilizaram como base o código adaptado por Rossana Baptista Queiroz, disponível em https://github.com/fellowsheep/PG2021-1/blob/main/CameraOrtho/CameraOrtho/Source.cpp.
