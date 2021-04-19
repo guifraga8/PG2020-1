@@ -1,0 +1,3 @@
+Antes usávamos as coordenadas x, y, z de -1 a 1. Agora que mudamos para a ortho, conseguimos
+colocar a imagem em píxeis. Como a imagem (janela instanciada) vai de 0 a 800, conseguimos
+desenhá-la pensando no uso de pixel.
