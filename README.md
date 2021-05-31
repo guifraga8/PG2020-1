@@ -36,3 +36,6 @@ OBS: Alguns exercícios eram particionados em partes (Ex.: 1.a, 1.b, 1.c) e fora
   - Projetos "Exercício6" e "Exercício7" utilizaram como base o código adaptado por Rossana Baptista Queiroz, disponível em https://github.com/fellowsheep/PG2021-1/blob/main/HelloTriangle/HelloTriangle/Source.cpp.
 * Lista2:
   - Projetos "Exercício1-3" e "Exercício4-5" utilizaram como base o código adaptado por Rossana Baptista Queiroz, disponível em https://github.com/fellowsheep/PG2021-1/blob/main/CameraOrtho/CameraOrtho/Source.cpp.
+* Lista5:
+  - Projeto "Exercício1-2" utilizou como base o código adaptado por Rossana Baptista Queiroz, disponível em https://github.com/fellowsheep/PG2021-1/tree/main/Framework-PG/Framework-PG.
+  - Exercício 1. g. (Efeito de "vignete") utilizou como base o tutorial de shader feito por Matt DesLauriers, disponível em https://github.com/mattdesl/lwjgl-basics/wiki/ShaderLesson3.
